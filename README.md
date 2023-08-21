@@ -22,6 +22,9 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 # Python
+# raspberry pi
+# powerbank(7volts)
+# DC motors
 <!-- Features -->
 
 ## 👥 Authors <a name="authors"></a>
