@@ -15,8 +15,9 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Lane detection <a name="about-project"></a>
+![unnamed](https://github.com/mohisa302/Lane-detection/assets/96848068/3a5f8320-99e3-47e1-a48e-15d11a08319f)
 
-## Implemented CNN on raspberry pi to navigate robot through lane.
+## Implemented CNN on a raspberry pi to navigate a robot through the lane.
 
 ## 🛠 Built With <a name="built-with"></a>
 
