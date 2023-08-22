@@ -21,10 +21,10 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-# Python
-# raspberry pi
-# powerbank(7volts)
-# DC motors
+- Python
+- raspberry pi
+- powerbank(7volts)
+- DC motors
 <!-- Features -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -56,7 +56,7 @@ If you like this project please give a⭐️ and share it with your friends.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
+Thank [Morteza](https://www.computervision.zone/courses/self-driving-car-using-raspberry-pi/) for his amazing course!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
