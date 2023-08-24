@@ -23,7 +23,7 @@
 
 - Python
 - raspberry pi
-- powerbank(7volts)
+- power bank(7volts)
 - DC motors
 <!-- Features -->
 
